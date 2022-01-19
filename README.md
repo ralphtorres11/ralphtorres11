@@ -1,8 +1,8 @@
-- 👋 Hello, my name is Ralph Torres
+- 👋🏼 Hello, my name is Ralph Torres
+- 📈 My background is in Data Analytics and Architecture
 - 🏢 I’m currently working at JPMorgan Chase
-- 👀 I’m interested in learning Data Science
-- 🌱 I’m currently learning Python
-- 📫 You can reach me on LinkedIn https://www.linkedin.com/in/ralphtorres11/
+- 🌱 I’m also learning Python for Data Science
+- ✉️ You can reach me on LinkedIn at https://www.linkedin.com/in/ralphtorres11/
 
 <!---
 ralphtorres11/ralphtorres11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
