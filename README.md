@@ -1,7 +1,7 @@
 - 👋🏼 Hello, my name is Ralph Torres
-- 📈 My background is in Data Analytics & Architecture
+- 📈 My background is in Product Management
 - 🏢 I’m currently working at JPMorgan Chase
-- 🌱 I’m also learning Python for Data Science
+- 🌱 I’m also learning Python for Data Science during my spare time
 - ✉️ You can reach me on LinkedIn at https://www.linkedin.com/in/ralphtorres11/
 
 <!---
